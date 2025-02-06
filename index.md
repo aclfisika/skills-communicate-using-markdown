@@ -18,3 +18,8 @@ def formatNumberas3DigitString(filename,basename,extension):
     fn = basename+"{0:0=3d}".format(numbers[0])+extension
     return fn
 ```
+
+## Task List
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
